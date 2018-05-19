@@ -1,5 +1,4 @@
-require 'benchmark'
-require 'pry'
+
 
 Benchmark.bm do|bm|
 
